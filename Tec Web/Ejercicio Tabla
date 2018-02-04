@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title> Tabla de pokemon iniciales </title>
+        <body>
+            <h1>First Gen Pokemon Chart</h1>
+            <table BORDER>
+            <tr>
+                <td><CENTER><b>Image</b></CENTER></td>
+                <td><CENTER><b>Name</b></CENTER></td>
+                <td><CENTER><b>Type</b></CENTER></td>
+                <td><CENTER><b>Evolves Into</b></CENTER></td>
+            </tr>
+            <tr>
+                <!Bulbasaur>
+                <td><img src="https://vignette.wikia.nocookie.net/es.pokemon/images/4/43/Bulbasaur.png/revision/latest?cb=20170120032346" width="100px"></td>
+                <td>Bulbasaur</td>
+                <td>Grass/Poison</td>
+                <td><a href="http://es.pokemon.wikia.com/wiki/Ivysaur">Ivysaur</a></td>
+            </tr>
+            <tr>
+                <!Charmander>
+                <td><img src="https://vignette.wikia.nocookie.net/es.pokemon/images/5/56/Charmander.png/revision/latest?cb=20140207202456" width="100px"></td>
+                <td>Charmander</td>
+                <td>Fire</td>
+                <td><a href="http://es.pokemon.wikia.com/wiki/Ivysaur">Charmeleon</a></td>
+            </tr>
+            <tr>
+                <!Charmander>
+                <td><img src="https://vignette.wikia.nocookie.net/es.pokemon/images/e/e3/Squirtle.png/revision/latest/scale-to-width-down/350?cb=20160309230820" width="100px"></td>
+                <td>Squirtle</td>
+                <td>Water</td>
+                <td><a href="http://es.pokemon.wikia.com/wiki/Ivysaur">Wartortle</a></td>
+            </tr>
+            </table>
+        </body>
+    </head>
+</html>
