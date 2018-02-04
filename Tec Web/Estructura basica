@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Texto </title>
+	</head>
+
+	<body>
+		<h1> Encabezado principal </h1>
+		<p> Esto es un parrafo
+		&copy
+		</p>
+		<p> Esto es otro parrafo </p>
+		<h2> Encabezado secundario </h2>
+		<h3> Subseccion </h3>
+		<h4> Subseccion de la subseccion </h4>
+		<h5> Esto es un subseccion menos importante </h5>
+		<h6> Esta es la subseccion menos importante de todas </h6>
+        <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Doloribus incidunt id sapiente omnis perspiciatis autem totam, nulla, delectus ratione perferendis ab et quos temporibus architecto harum voluptas illo quia? Quasi.
+        <!Es para poner texto de relleno>
+        </p>
+	</body>
+</html>
